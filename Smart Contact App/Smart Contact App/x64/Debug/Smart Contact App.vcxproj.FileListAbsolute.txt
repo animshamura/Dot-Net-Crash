@@ -1,0 +1,5 @@
+C:\Users\great computer\source\repos\Smart Contact App\Smart Contact App\x64\Debug\Smart Contact App.vcxproj.AssemblyReference.cache
+C:\Users\great computer\source\repos\Smart Contact App\Smart Contact App\x64\Debug\Smart Contact App.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\great computer\source\repos\Smart Contact App\Smart Contact App\x64\Debug\SmartContactApp.LogIn.resources
+C:\Users\great computer\source\repos\Smart Contact App\Smart Contact App\x64\Debug\Smart Contact App.vcxproj.GenerateResource.cache
+C:\Users\great computer\source\repos\Smart Contact App\Smart Contact App\x64\Debug\SmartContactApp.SignUp.resources
