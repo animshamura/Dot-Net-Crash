@@ -1,0 +1,6 @@
+C:\Users\great computer\source\repos\SMCA\SMCA\x64\Debug\SMCA.vcxproj.AssemblyReference.cache
+C:\Users\great computer\source\repos\SMCA\SMCA\x64\Debug\SMCA.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\great computer\source\repos\SMCA\SMCA\x64\Debug\SMCA.Dashboard.resources
+C:\Users\great computer\source\repos\SMCA\SMCA\x64\Debug\SMCA.LogIn.resources
+C:\Users\great computer\source\repos\SMCA\SMCA\x64\Debug\SMCA.SignUp.resources
+C:\Users\great computer\source\repos\SMCA\SMCA\x64\Debug\SMCA.vcxproj.GenerateResource.cache

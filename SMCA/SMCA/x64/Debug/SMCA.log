@@ -1,0 +1,11 @@
+﻿  Dashboard.cpp
+  LogIn.cpp
+C:\Users\great computer\source\repos\SMCA\SMCA\LogIn.h(207,21): warning C4101: 'e': unreferenced local variable
+  Program.cpp
+C:\Users\great computer\source\repos\SMCA\SMCA\LogIn.h(207,21): warning C4101: 'e': unreferenced local variable
+C:\Users\great computer\source\repos\SMCA\SMCA\Program.cpp(7,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  SignUp.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  Dashboard.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SMCA.vcxproj -> C:\Users\great computer\source\repos\SMCA\x64\Debug\SMCA.exe
